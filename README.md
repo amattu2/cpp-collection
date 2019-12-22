@@ -1,5 +1,5 @@
 # Introduction
-N/A
+This is a collection of various useless C++ files. Use, laugh at, modify, whatever at your free will.
 
 # Usage
 N/A
@@ -11,4 +11,4 @@ N/A
 N/A
 
 # Previews
-![preview image](https://via.placeholder.com/350x240)
+N/A
